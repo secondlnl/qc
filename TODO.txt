@@ -11,6 +11,7 @@ Official
 	https://github.com/Jason2Brownlee/QuakeOfficialArchive/blob/main/bin/doe_qc.zip
 - Code review and fixes in QW v2.30
 	https://github.com/Jason2Brownlee/QuakeOfficialArchive/blob/main/bin/q1source.zip
+- Code review and fixes in rerelease qc of quake, and both the mission packs
 
 Reported Bugs
 
