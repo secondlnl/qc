@@ -242,6 +242,10 @@ void		end_sys_fields;			// flag for structure dumping
 // constants
 //
 
+//weapons
+float WEAPON_TYPE_SHOTGUN = 1;
+
+
 float	FALSE					= 0;
 float 	TRUE					= 1;
 
