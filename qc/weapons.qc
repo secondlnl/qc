@@ -282,7 +282,7 @@ void() W_FireShotgun =
 {
 	local vector dir;
 
-	sound (self, CHAN_WEAPON, "weapons/guncock.wav", 1, ATTN_NORM);
+	sound (self, CHAN_WEAPON, "weapons/guncock.wav", 2, ATTN_NORM);
 
 	self.punchangle_x = -2;
 
